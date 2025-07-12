@@ -1,1 +1,1 @@
-# CosmoDCWGAN
+# DCWGAN for LSS Generation
